@@ -149,6 +149,7 @@ function getGradient(name) {
   }
 }
 
+//Logo title animation
 const nav = document.querySelector("nav");
 const logo = nav.querySelector(".logo");
 const text = logo.textContent.split("");
